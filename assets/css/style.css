@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header{
+    background: linear-gradient(90deg, rgba(22,28,29,0.6223739495798319) 100%, rgba(0,0,0,0.644782913165266) 100%),url('/assets/images/header_banner.jpg'),no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+}
+span.Shaanvi {
+    color: #f3831b;
+}
+
+span.Enterprises {
+    color: #c3e0e8;
+}
+h1.abt {
+    color: #f3831b;
+}
+a.nav-link ,.navbar-brand{
+    color: #c3e0e8 !IMPORTANT;
+}
+section.about {
+    /* margin-top: 5%; */
+    background: #047da03d;
+    height: 100vh;
+}
+.head {
+    margin: 30% 0% 0% 0%;
+   
+}
+.rel {
+    position: relative;
+}
+
+.abs {
+    position: absolute;
+    right: 12%;
+    bottom: -88%;
+    color: #fff;
+}
+.head_about {
+    padding: 5%;
+}
+h1.head_text {
+    font-size: 70px;
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+p.text {
+    font-size: 20px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    font-weight: 300;
+}
+p.abt_con {
+    text-align: justify;
+    margin: 0;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+}
+
+.abt_content {
+    background: #f3831b;
+    padding: 35px;
+}
+.our_services{
+    background: #047da03d;
+    height: auto;
+    padding: 30px;
+}
+h2.card-head {
+    font-size: 22px;
+    font-weight: 500;
+    color: #f3831b;
+}
+.founder{
+    background: #047da03d;
+    height: auto;
+}
+.contact{
+    background:linear-gradient(90deg, rgba(4,125,160,0.5439425770308124) 100%, rgba(0,0,0,1) 100%),url('/assets/images/contact.jpg'),no-repeat;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+
+}
+.con {
+    color: #fff;
+    font-size: 26px;
+    font-weight: 600;
+}
+input.form-control {
+    margin-bottom: 10px;
+}
+i.fa-solid {
+    color: #f3831b;
+}
